@@ -15,7 +15,7 @@ Engineering thesis project focused on detecting thyroid cancer from ultrasound (
 - Preprocessing and augmentation of medical imaging data.
 - Model evaluation based on metrics such as accuracy, precision, recall, and F1-score.
 
-## Data sources
+## Training data sources 
 ### Algerian USG Image Dataset: 
 https://www.kaggle.com/datasets/azouzmaroua/algeria-ultrasound-images-thyroid-dataset-auitd
 
